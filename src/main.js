@@ -11,7 +11,7 @@ import { VueAxios } from './utils/request' // 按需加载
 // import './mock'
 import bootstrap from './core/bootstrap'
 import './core/use'
-//import './permission' // permission control
+import './permission' // permission control
 import './utils/filter' // global filter
 import VueI18n from 'vue-i18n'
 import './commoncss/fontStyle.less'
